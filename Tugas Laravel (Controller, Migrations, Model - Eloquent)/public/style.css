@@ -1,0 +1,61 @@
+
+div.container {
+width : 100%;
+border : 1px solid gray;
+}
+
+header, footer {
+padding : 0.5cm;
+color : white;
+background-color : #155b72;
+clear: left;
+text-align : center;
+font-family: calibri;
+}
+
+nav {
+float : left;
+max-width :160px;
+margin: 0;
+padding :1cm;
+color: black;
+font-family: calibri;
+}
+
+nav ul {
+list-style-type : none;
+padding :0;
+}
+
+nav ul a {
+text-decoration : none;
+color: #155b72;
+}
+
+article {
+margin-left : 170px;
+border-left : 1px solid gray;
+padding : 1cm;
+overflow: hidden;
+font-family: calibri;
+}
+
+table{
+width: 70%;
+margin: auto;
+border-collapse: collapse;
+box-shadow: darkgrey 3px;
+font-family: calibri;
+}
+
+thead tr {
+background-color: #155b72;
+color: white;
+}
+
+fieldset {
+	font-family: calibri;
+}
+
+
+
